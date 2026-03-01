@@ -1,0 +1,454 @@
+user_id,visited,date,rating,review
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,NEST Tutoring,2026-02-14 10:19,2,Tutor seemed a bit rushed today.
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,Selleck Building,2026-01-31 03:28,,
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,Aerospace Club,2026-02-17 05:05,,
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,Coding Club,2026-02-28 08:18,2,Meeting started 20 minutes late.
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,North 17th Parking Garage,2026-02-07 12:25,4,Easy in and out today.
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,Love Library,2026-02-14 19:23,1,"Too busy, had to leave."
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,Astronomy Club,2026-02-12 00:32,3,Basically just listened to a lecture.
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,North 17th Parking Garage,2026-02-24 04:57,,
+610b3f6c-1e79-45bd-bce3-4cdc5209ee08,Aerospace Club,2026-02-26 18:42,3,Basically just listened to a lecture.
+bed55d81-11d7-4032-a580-62bc12dd1a6f,Love Library,2026-02-22 09:57,,
+bed55d81-11d7-4032-a580-62bc12dd1a6f,Cather Dining Hall,2026-02-07 07:02,,
+bed55d81-11d7-4032-a580-62bc12dd1a6f,Math Resource Center,2026-02-24 05:21,,
+bed55d81-11d7-4032-a580-62bc12dd1a6f,Aerospace Club,2026-02-05 08:54,1,Meeting started 20 minutes late.
+bed55d81-11d7-4032-a580-62bc12dd1a6f,Love Library,2026-01-30 17:26,,
+bed55d81-11d7-4032-a580-62bc12dd1a6f,Aerospace Club,2026-02-24 10:34,,
+5d9b209d-d65f-4506-93a1-782320adebf9,Math Resource Center,2026-02-24 08:55,4,Life-saver before my midterm.
+5d9b209d-d65f-4506-93a1-782320adebf9,Aerospace Club,2026-02-28 12:51,3,Basically just listened to a lecture.
+5d9b209d-d65f-4506-93a1-782320adebf9,NEST Tutoring,2026-01-31 14:55,,
+5d9b209d-d65f-4506-93a1-782320adebf9,Coding Club,2026-02-08 14:47,,
+5d9b209d-d65f-4506-93a1-782320adebf9,Selleck Building,2026-02-04 16:13,2,Tables were completely dirty.
+5d9b209d-d65f-4506-93a1-782320adebf9,Cather Dining Hall,2026-02-07 16:37,4,Great salad bar options.
+5d9b209d-d65f-4506-93a1-782320adebf9,NEST Tutoring,2026-02-25 03:17,,
+5d9b209d-d65f-4506-93a1-782320adebf9,Cather Dining Hall,2026-01-30 05:50,2,Food was cold.
+5d9b209d-d65f-4506-93a1-782320adebf9,14th St Parking Garage,2026-02-13 07:25,,
+5d9b209d-d65f-4506-93a1-782320adebf9,North 17th Parking Garage,2026-02-12 18:31,,
+5d9b209d-d65f-4506-93a1-782320adebf9,14th St Parking Garage,2026-02-08 05:15,3,Had to park all the way on the roof.
+5d9b209d-d65f-4506-93a1-782320adebf9,14th St Parking Garage,2026-02-23 00:54,3,People drive like maniacs in here.
+f960b837-8ffa-44fb-ba10-d69983c378c0,Selleck Building,2026-02-06 00:33,2,They ran out of the good stuff.
+f960b837-8ffa-44fb-ba10-d69983c378c0,Math Resource Center,2026-02-14 21:36,,
+f960b837-8ffa-44fb-ba10-d69983c378c0,DLC Exam Commons,2026-02-01 20:48,2,Line to get in was insane.
+f960b837-8ffa-44fb-ba10-d69983c378c0,Coding Club,2026-02-13 15:15,,
+f960b837-8ffa-44fb-ba10-d69983c378c0,CSCE Resource Center,2026-02-10 11:36,1,Too crowded to get one-on-one help.
+f960b837-8ffa-44fb-ba10-d69983c378c0,Math Resource Center,2026-02-26 09:18,3,Tutor seemed a bit rushed today.
+f960b837-8ffa-44fb-ba10-d69983c378c0,DLC Exam Commons,2026-02-07 15:19,5,Got checked in immediately.
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Selleck Building,2026-02-04 12:42,,
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Avery Hall,2026-02-17 04:49,,
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Astronomy Club,2026-02-11 07:37,5,Really cool project demo today.
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,CSCE Resource Center,2026-02-16 22:27,,
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Aerospace Club,2026-02-15 09:00,3,Topic wasn't what I expected.
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Cather Dining Hall,2026-02-13 05:09,5,Great salad bar options.
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Avery Hall,2026-02-25 11:10,,
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Astronomy Club,2026-02-14 18:48,4,Really welcoming group of people!
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,CSCE Resource Center,2026-02-19 09:32,,
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Love Library,2026-02-01 19:18,,
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,Love Library,2026-02-05 23:31,,
+119c68dc-9fa7-40a6-a6a9-7077a7bbcbdf,14th St Parking Garage,2026-02-26 12:49,,
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Aerospace Club,2026-02-11 14:29,,
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Love Library,2026-02-28 10:54,,
+c28c1e5f-575a-44a7-8291-dd40b721e84e,East Campus,2026-02-25 13:24,3,Missed the bus back to city campus.
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Cather Dining Hall,2026-02-22 09:05,,
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Selleck Building,2026-02-27 02:08,,
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Love Library,2026-02-25 04:54,5,Super productive vibe today.
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Aerospace Club,2026-02-09 06:27,,
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Aerospace Club,2026-02-22 16:46,,
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Astronomy Club,2026-02-10 18:55,,
+c28c1e5f-575a-44a7-8291-dd40b721e84e,Love Library,2026-02-17 04:17,1,"Way too loud, couldn't focus."
+3cd02299-7586-4625-a0f7-1012bb0af873,Math Resource Center,2026-02-09 12:55,,
+3cd02299-7586-4625-a0f7-1012bb0af873,North 17th Parking Garage,2026-02-25 21:01,3,Complete gridlock trying to leave.
+3cd02299-7586-4625-a0f7-1012bb0af873,CSCE Resource Center,2026-01-30 04:32,3,Wait time was over 30 minutes.
+3cd02299-7586-4625-a0f7-1012bb0af873,NEST Tutoring,2026-02-22 06:13,,
+3cd02299-7586-4625-a0f7-1012bb0af873,Math Resource Center,2026-02-05 06:52,,
+3cd02299-7586-4625-a0f7-1012bb0af873,NEST Tutoring,2026-02-02 18:25,2,Didn't really answer my specific question.
+3cd02299-7586-4625-a0f7-1012bb0af873,14th St Parking Garage,2026-02-23 10:32,5,Plenty of open spaces this morning.
+3cd02299-7586-4625-a0f7-1012bb0af873,Coding Club,2026-02-16 19:28,,
+3cd02299-7586-4625-a0f7-1012bb0af873,North 17th Parking Garage,2026-02-16 18:21,,
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,14th St Parking Garage,2026-02-08 03:08,,
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,DLC Exam Commons,2026-02-26 00:32,,
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,North 17th Parking Garage,2026-02-23 14:45,,
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,North 17th Parking Garage,2026-02-06 19:01,2,People drive like maniacs in here.
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,Coding Club,2026-02-04 11:12,3,Felt a bit disorganized today.
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,Selleck Building,2026-02-13 04:48,,
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,Coding Club,2026-02-20 06:32,4,Free pizza was a massive plus.
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,Love Library,2026-02-06 05:28,,
+4e4f2ea6-6768-4014-a392-eb104b2bacc0,Cather Dining Hall,2026-02-17 11:54,,
+f3678311-f7d7-426e-a0f3-a389acbc108f,Selleck Building,2026-02-03 21:04,5,The pizza was fresh out of the oven.
+f3678311-f7d7-426e-a0f3-a389acbc108f,Astronomy Club,2026-02-22 07:13,,
+f3678311-f7d7-426e-a0f3-a389acbc108f,CSCE Resource Center,2026-02-23 09:13,5,"Great session, finally understand the concepts."
+f3678311-f7d7-426e-a0f3-a389acbc108f,East Campus,2026-02-19 09:16,,
+f3678311-f7d7-426e-a0f3-a389acbc108f,Love Library,2026-02-10 05:07,4,Perfect lighting and fast Wi-Fi.
+f3678311-f7d7-426e-a0f3-a389acbc108f,Selleck Building,2026-02-16 19:56,,
+f3678311-f7d7-426e-a0f3-a389acbc108f,Coding Club,2026-02-11 09:01,,
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,North 17th Parking Garage,2026-02-14 11:24,,
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,Aerospace Club,2026-02-04 17:13,,
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,Cather Dining Hall,2026-02-14 23:36,5,Great salad bar options.
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,Coding Club,2026-02-08 21:01,,
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,Love Library,2026-02-17 00:20,,
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,Avery Hall,2026-02-28 01:08,3,The Wi-Fi kept dropping.
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,East Campus,2026-02-19 12:39,2,Bus ride took forever today.
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,Coding Club,2026-02-16 01:17,,
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,Selleck Building,2026-01-30 02:40,,
+b5ef2bed-796f-40d5-bf0a-5d9341e1c464,North 17th Parking Garage,2026-02-24 08:21,,
+b94727dc-2c2f-4ddc-9603-130be3973abe,Love Library,2026-01-31 13:04,,
+b94727dc-2c2f-4ddc-9603-130be3973abe,Astronomy Club,2026-02-27 16:43,,
+b94727dc-2c2f-4ddc-9603-130be3973abe,North 17th Parking Garage,2026-02-24 17:54,,
+b94727dc-2c2f-4ddc-9603-130be3973abe,CSCE Resource Center,2026-02-03 16:10,1,Too crowded to get one-on-one help.
+b94727dc-2c2f-4ddc-9603-130be3973abe,NEST Tutoring,2026-02-03 23:05,,
+b94727dc-2c2f-4ddc-9603-130be3973abe,Selleck Building,2026-02-27 02:04,2,Tables were completely dirty.
+b94727dc-2c2f-4ddc-9603-130be3973abe,Cather Dining Hall,2026-02-07 14:56,,
+741048c7-186f-4430-b42d-a4d0412334f0,Coding Club,2026-02-07 21:21,,
+741048c7-186f-4430-b42d-a4d0412334f0,East Campus,2026-02-16 19:58,,
+741048c7-186f-4430-b42d-a4d0412334f0,Avery Hall,2026-02-18 16:21,,
+741048c7-186f-4430-b42d-a4d0412334f0,CSCE Resource Center,2026-02-18 06:02,,
+741048c7-186f-4430-b42d-a4d0412334f0,14th St Parking Garage,2026-02-25 10:21,1,People drive like maniacs in here.
+741048c7-186f-4430-b42d-a4d0412334f0,Math Resource Center,2026-02-13 04:30,1,Too crowded to get one-on-one help.
+741048c7-186f-4430-b42d-a4d0412334f0,CSCE Resource Center,2026-02-16 14:37,,
+d510eae4-324e-4477-93cb-b93539d1141a,Aerospace Club,2026-02-28 04:59,,
+d510eae4-324e-4477-93cb-b93539d1141a,Astronomy Club,2026-02-25 02:09,,
+d510eae4-324e-4477-93cb-b93539d1141a,NEST Tutoring,2026-02-18 19:34,5,Learning consultants are the best.
+d510eae4-324e-4477-93cb-b93539d1141a,Coding Club,2026-02-08 18:20,1,Topic wasn't what I expected.
+d510eae4-324e-4477-93cb-b93539d1141a,Love Library,2026-02-09 02:59,2,"Too busy, had to leave."
+d510eae4-324e-4477-93cb-b93539d1141a,DLC Exam Commons,2026-01-30 09:40,5,"In and out, no issues."
+04f27439-0f9e-4623-b3d1-8b612ea0de5b,Math Resource Center,2026-02-11 21:45,,
+04f27439-0f9e-4623-b3d1-8b612ea0de5b,CSCE Resource Center,2026-02-21 03:55,3,Tutor seemed a bit rushed today.
+04f27439-0f9e-4623-b3d1-8b612ea0de5b,North 17th Parking Garage,2026-02-07 00:28,4,Plenty of open spaces this morning.
+04f27439-0f9e-4623-b3d1-8b612ea0de5b,Love Library,2026-02-24 18:36,,
+04f27439-0f9e-4623-b3d1-8b612ea0de5b,Coding Club,2026-02-20 22:03,4,Great leadership and fun activities.
+04f27439-0f9e-4623-b3d1-8b612ea0de5b,Coding Club,2026-02-14 10:40,,
+04f27439-0f9e-4623-b3d1-8b612ea0de5b,Love Library,2026-02-26 07:40,,
+04f27439-0f9e-4623-b3d1-8b612ea0de5b,Love Library,2026-02-16 10:31,5,Managed to snag a table with an outlet!
+e179076b-06cd-4a25-8c9c-b419b05a66bd,Avery Hall,2026-02-25 16:33,,
+e179076b-06cd-4a25-8c9c-b419b05a66bd,14th St Parking Garage,2026-02-17 00:56,,
+e179076b-06cd-4a25-8c9c-b419b05a66bd,North 17th Parking Garage,2026-02-21 14:05,5,Easy in and out today.
+e179076b-06cd-4a25-8c9c-b419b05a66bd,Math Resource Center,2026-02-16 17:15,1,Too crowded to get one-on-one help.
+e179076b-06cd-4a25-8c9c-b419b05a66bd,Coding Club,2026-02-21 09:10,1,Meeting started 20 minutes late.
+e179076b-06cd-4a25-8c9c-b419b05a66bd,14th St Parking Garage,2026-02-18 12:41,,
+e179076b-06cd-4a25-8c9c-b419b05a66bd,Selleck Building,2026-02-22 19:40,1,Tables were completely dirty.
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,East Campus,2026-02-11 17:25,,
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,14th St Parking Garage,2026-02-12 21:55,,
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,Astronomy Club,2026-02-20 14:53,5,Free pizza was a massive plus.
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,Selleck Building,2026-02-27 23:59,,
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,CSCE Resource Center,2026-02-26 20:04,1,Too crowded to get one-on-one help.
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,DLC Exam Commons,2026-01-31 11:17,,
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,Love Library,2026-02-12 22:47,3,Every single table was taken.
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,Aerospace Club,2026-02-19 05:19,3,Meeting started 20 minutes late.
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,Cather Dining Hall,2026-02-26 04:11,1,They ran out of the good stuff.
+6373899a-0389-4ac9-a803-e91f8f8ed5a9,CSCE Resource Center,2026-01-31 14:55,,
+700911ee-1340-4fae-9a52-0929735aa105,Aerospace Club,2026-02-17 14:07,,
+700911ee-1340-4fae-9a52-0929735aa105,Math Resource Center,2026-02-19 04:07,,
+700911ee-1340-4fae-9a52-0929735aa105,Coding Club,2026-02-27 01:21,,
+700911ee-1340-4fae-9a52-0929735aa105,NEST Tutoring,2026-02-16 06:15,,
+700911ee-1340-4fae-9a52-0929735aa105,CSCE Resource Center,2026-02-21 22:08,,
+700911ee-1340-4fae-9a52-0929735aa105,Love Library,2026-02-27 11:08,2,People were talking so loud.
+700911ee-1340-4fae-9a52-0929735aa105,East Campus,2026-02-25 09:37,5,Vibes are just better over here.
+700911ee-1340-4fae-9a52-0929735aa105,Love Library,2026-02-20 20:02,3,Every single table was taken.
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,Avery Hall,2026-02-09 11:57,5,Not too crowded today.
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,CSCE Resource Center,2026-02-24 01:28,,
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,Selleck Building,2026-02-02 13:08,,
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,NEST Tutoring,2026-02-15 16:55,,
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,Astronomy Club,2026-02-24 21:02,1,Meeting started 20 minutes late.
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,NEST Tutoring,2026-02-07 15:59,1,Wait time was over 30 minutes.
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,Math Resource Center,2026-02-20 01:59,,
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,East Campus,2026-02-03 19:18,,
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,Astronomy Club,2026-02-04 05:04,,
+bd6fdd32-0071-4cca-8bbf-3159cab3f025,Coding Club,2026-02-02 09:06,5,Really cool project demo today.
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,Love Library,2026-02-27 22:08,3,"Too busy, had to leave."
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,Avery Hall,2026-02-20 18:42,4,Found a great quiet spot to study.
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,North 17th Parking Garage,2026-02-05 19:07,3,Took 20 minutes to find a spot.
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,Math Resource Center,2026-01-31 09:35,2,Wait time was over 30 minutes.
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,North 17th Parking Garage,2026-02-06 09:06,,
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,Aerospace Club,2026-02-02 09:36,3,Topic wasn't what I expected.
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,14th St Parking Garage,2026-02-04 08:27,,
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,NEST Tutoring,2026-02-25 11:26,4,Super patient and helpful.
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,East Campus,2026-02-17 03:40,,
+9c85a9e2-9a9a-4261-9d12-7d9788b0d908,Math Resource Center,2026-02-25 03:07,,
+030edbda-f601-4aa9-a9cf-a6cc0440bb1d,Math Resource Center,2026-02-18 00:19,,
+030edbda-f601-4aa9-a9cf-a6cc0440bb1d,NEST Tutoring,2026-02-15 08:25,3,Too crowded to get one-on-one help.
+030edbda-f601-4aa9-a9cf-a6cc0440bb1d,Selleck Building,2026-02-07 00:57,2,Tables were completely dirty.
+030edbda-f601-4aa9-a9cf-a6cc0440bb1d,Coding Club,2026-02-20 09:02,,
+030edbda-f601-4aa9-a9cf-a6cc0440bb1d,East Campus,2026-02-04 02:05,4,Vibes are just better over here.
+030edbda-f601-4aa9-a9cf-a6cc0440bb1d,Avery Hall,2026-02-17 08:12,1,"Way too loud, couldn't focus."
+030edbda-f601-4aa9-a9cf-a6cc0440bb1d,Aerospace Club,2026-02-03 00:07,,
+030edbda-f601-4aa9-a9cf-a6cc0440bb1d,Cather Dining Hall,2026-02-24 13:53,,
+bae064df-301b-4ee5-8066-1214c4e1fbe1,Astronomy Club,2026-02-16 19:07,2,Too cliquey for my taste.
+bae064df-301b-4ee5-8066-1214c4e1fbe1,Cather Dining Hall,2026-02-01 04:20,,
+bae064df-301b-4ee5-8066-1214c4e1fbe1,Aerospace Club,2026-02-07 23:32,,
+bae064df-301b-4ee5-8066-1214c4e1fbe1,Aerospace Club,2026-02-01 09:15,,
+bae064df-301b-4ee5-8066-1214c4e1fbe1,Astronomy Club,2026-01-31 11:11,,
+bae064df-301b-4ee5-8066-1214c4e1fbe1,Selleck Building,2026-01-31 20:06,3,Line was out the door.
+bae064df-301b-4ee5-8066-1214c4e1fbe1,Aerospace Club,2026-02-26 17:39,,
+dd93c236-1dbf-4010-a0a3-272690e8a752,Astronomy Club,2026-02-21 04:16,,
+dd93c236-1dbf-4010-a0a3-272690e8a752,Astronomy Club,2026-02-04 12:37,2,Felt a bit disorganized today.
+dd93c236-1dbf-4010-a0a3-272690e8a752,Cather Dining Hall,2026-02-05 22:22,4,Great salad bar options.
+dd93c236-1dbf-4010-a0a3-272690e8a752,DLC Exam Commons,2026-01-31 20:25,,
+dd93c236-1dbf-4010-a0a3-272690e8a752,East Campus,2026-02-08 20:17,2,Bus ride took forever today.
+dd93c236-1dbf-4010-a0a3-272690e8a752,Astronomy Club,2026-02-20 02:20,,
+dd93c236-1dbf-4010-a0a3-272690e8a752,Aerospace Club,2026-02-24 14:50,4,"Awesome meeting, learned a lot about the projects."
+dd93c236-1dbf-4010-a0a3-272690e8a752,DLC Exam Commons,2026-02-21 02:14,5,Got checked in immediately.
+dd93c236-1dbf-4010-a0a3-272690e8a752,East Campus,2026-02-26 22:06,,
+dd93c236-1dbf-4010-a0a3-272690e8a752,Selleck Building,2026-02-09 14:16,,
+dd93c236-1dbf-4010-a0a3-272690e8a752,Aerospace Club,2026-02-15 20:49,,
+dd93c236-1dbf-4010-a0a3-272690e8a752,Math Resource Center,2026-02-08 01:30,,
+c2cbfb8c-ecc5-46e4-ab45-3fab61be93e4,Math Resource Center,2026-02-26 13:39,,
+c2cbfb8c-ecc5-46e4-ab45-3fab61be93e4,Coding Club,2026-02-02 13:57,3,Felt a bit disorganized today.
+c2cbfb8c-ecc5-46e4-ab45-3fab61be93e4,NEST Tutoring,2026-02-11 04:24,,
+c2cbfb8c-ecc5-46e4-ab45-3fab61be93e4,Love Library,2026-02-02 00:42,,
+c2cbfb8c-ecc5-46e4-ab45-3fab61be93e4,Astronomy Club,2026-02-12 07:10,,
+c2cbfb8c-ecc5-46e4-ab45-3fab61be93e4,East Campus,2026-02-06 09:39,,
+c2cbfb8c-ecc5-46e4-ab45-3fab61be93e4,DLC Exam Commons,2026-02-14 16:52,,
+eeb267a9-ed92-4235-afa0-35479de15e12,Love Library,2026-02-05 07:00,,
+eeb267a9-ed92-4235-afa0-35479de15e12,Cather Dining Hall,2026-02-10 03:12,,
+eeb267a9-ed92-4235-afa0-35479de15e12,Astronomy Club,2026-02-09 21:40,,
+eeb267a9-ed92-4235-afa0-35479de15e12,Astronomy Club,2026-02-24 22:44,1,Meeting started 20 minutes late.
+eeb267a9-ed92-4235-afa0-35479de15e12,Love Library,2026-02-20 07:23,,
+eeb267a9-ed92-4235-afa0-35479de15e12,Love Library,2026-02-26 18:30,2,The Wi-Fi kept dropping.
+470da108-d926-447c-8649-a18ff42a5d06,Aerospace Club,2026-02-18 07:32,,
+470da108-d926-447c-8649-a18ff42a5d06,Avery Hall,2026-02-19 23:55,,
+470da108-d926-447c-8649-a18ff42a5d06,Selleck Building,2026-02-21 10:17,2,Food was cold.
+470da108-d926-447c-8649-a18ff42a5d06,DLC Exam Commons,2026-02-24 05:32,,
+470da108-d926-447c-8649-a18ff42a5d06,Cather Dining Hall,2026-02-28 11:19,,
+470da108-d926-447c-8649-a18ff42a5d06,DLC Exam Commons,2026-02-04 23:21,2,My keyboard was sticky.
+470da108-d926-447c-8649-a18ff42a5d06,DLC Exam Commons,2026-02-16 22:16,,
+470da108-d926-447c-8649-a18ff42a5d06,NEST Tutoring,2026-02-06 02:55,,
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,Love Library,2026-02-09 08:42,,
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,Coding Club,2026-02-22 21:52,2,Felt a bit disorganized today.
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,North 17th Parking Garage,2026-02-06 03:38,,
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,Math Resource Center,2026-02-12 20:46,3,Didn't really answer my specific question.
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,14th St Parking Garage,2026-02-12 14:14,,
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,Avery Hall,2026-02-02 17:23,,
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,CSCE Resource Center,2026-02-24 07:22,,
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,Math Resource Center,2026-02-21 02:28,,
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,NEST Tutoring,2026-02-08 20:46,,
+0a58ac18-a621-4d6e-98b0-48fdfafa3dd0,14th St Parking Garage,2026-02-04 02:06,,
+81ba9b9e-9056-4677-aba6-74056bbcf16d,Cather Dining Hall,2026-02-09 17:20,3,Food was cold.
+81ba9b9e-9056-4677-aba6-74056bbcf16d,Astronomy Club,2026-02-06 06:14,,
+81ba9b9e-9056-4677-aba6-74056bbcf16d,NEST Tutoring,2026-02-16 20:17,4,The tutor was incredibly helpful with my homework!
+81ba9b9e-9056-4677-aba6-74056bbcf16d,Coding Club,2026-02-16 08:23,4,Really cool project demo today.
+81ba9b9e-9056-4677-aba6-74056bbcf16d,DLC Exam Commons,2026-02-04 21:12,,
+81ba9b9e-9056-4677-aba6-74056bbcf16d,DLC Exam Commons,2026-02-02 01:36,1,Super stressful environment.
+81ba9b9e-9056-4677-aba6-74056bbcf16d,Math Resource Center,2026-02-17 11:46,3,Tutor seemed a bit rushed today.
+81ba9b9e-9056-4677-aba6-74056bbcf16d,Avery Hall,2026-02-13 13:57,,
+81ba9b9e-9056-4677-aba6-74056bbcf16d,Astronomy Club,2026-02-21 03:17,,
+81ba9b9e-9056-4677-aba6-74056bbcf16d,Aerospace Club,2026-02-08 20:45,3,Meeting started 20 minutes late.
+81ba9b9e-9056-4677-aba6-74056bbcf16d,Love Library,2026-02-04 23:46,,
+81ba9b9e-9056-4677-aba6-74056bbcf16d,NEST Tutoring,2026-02-16 23:47,2,Didn't really answer my specific question.
+879a4123-7797-4505-ba68-2b8eb6f2485e,Cather Dining Hall,2026-02-14 04:13,,
+879a4123-7797-4505-ba68-2b8eb6f2485e,Coding Club,2026-02-04 09:01,,
+879a4123-7797-4505-ba68-2b8eb6f2485e,14th St Parking Garage,2026-02-17 13:08,1,People drive like maniacs in here.
+879a4123-7797-4505-ba68-2b8eb6f2485e,Aerospace Club,2026-02-06 15:04,,
+879a4123-7797-4505-ba68-2b8eb6f2485e,14th St Parking Garage,2026-02-03 03:18,,
+879a4123-7797-4505-ba68-2b8eb6f2485e,NEST Tutoring,2026-02-09 08:02,3,Tutor seemed a bit rushed today.
+879a4123-7797-4505-ba68-2b8eb6f2485e,East Campus,2026-01-30 11:26,,
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Aerospace Club,2026-02-27 14:27,2,Topic wasn't what I expected.
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Avery Hall,2026-02-21 22:44,,
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Love Library,2026-02-13 12:46,1,Every single table was taken.
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Selleck Building,2026-02-16 17:39,1,Nowhere to sit during the lunch rush.
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Coding Club,2026-02-05 00:09,,
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Cather Dining Hall,2026-01-30 19:37,4,Food was actually really good today!
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Astronomy Club,2026-02-01 17:29,,
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Cather Dining Hall,2026-02-27 04:27,,
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,North 17th Parking Garage,2026-02-21 13:27,4,Found a spot on the first level!
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,Aerospace Club,2026-02-13 14:01,,
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,DLC Exam Commons,2026-02-04 17:15,2,My keyboard was sticky.
+6d2d7879-4f23-4f5f-96df-b6eba0b8075e,CSCE Resource Center,2026-02-10 02:27,,
+54be74fe-d59c-441b-aabb-560d1e348a6c,Aerospace Club,2026-02-08 19:32,,
+54be74fe-d59c-441b-aabb-560d1e348a6c,Astronomy Club,2026-01-30 15:53,1,Basically just listened to a lecture.
+54be74fe-d59c-441b-aabb-560d1e348a6c,North 17th Parking Garage,2026-02-24 10:19,2,People drive like maniacs in here.
+54be74fe-d59c-441b-aabb-560d1e348a6c,Aerospace Club,2026-02-19 03:35,,
+54be74fe-d59c-441b-aabb-560d1e348a6c,North 17th Parking Garage,2026-02-05 23:21,5,Found a spot on the first level!
+54be74fe-d59c-441b-aabb-560d1e348a6c,Coding Club,2026-02-23 23:24,,
+54be74fe-d59c-441b-aabb-560d1e348a6c,Coding Club,2026-02-22 19:37,,
+54be74fe-d59c-441b-aabb-560d1e348a6c,Avery Hall,2026-02-12 06:40,2,The Wi-Fi kept dropping.
+54be74fe-d59c-441b-aabb-560d1e348a6c,Aerospace Club,2026-02-17 00:20,,
+54be74fe-d59c-441b-aabb-560d1e348a6c,CSCE Resource Center,2026-02-24 14:16,,
+54be74fe-d59c-441b-aabb-560d1e348a6c,Math Resource Center,2026-02-14 03:57,5,Learning consultants are the best.
+54be74fe-d59c-441b-aabb-560d1e348a6c,Coding Club,2026-02-02 17:18,,
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,CSCE Resource Center,2026-02-25 01:22,,
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,North 17th Parking Garage,2026-02-24 20:52,,
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,NEST Tutoring,2026-01-30 02:21,,
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,CSCE Resource Center,2026-02-23 14:47,,
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,Math Resource Center,2026-02-23 10:00,,
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,Coding Club,2026-02-13 15:35,1,Topic wasn't what I expected.
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,Love Library,2026-02-10 15:47,,
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,Coding Club,2026-02-17 10:10,4,Great leadership and fun activities.
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,14th St Parking Garage,2026-01-31 21:44,,
+5dfbf508-f0f4-41af-9fe4-f6b96fd7fe43,NEST Tutoring,2026-02-08 19:39,,
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,NEST Tutoring,2026-02-16 17:05,,
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,Love Library,2026-02-11 23:47,,
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,East Campus,2026-01-30 04:45,3,Missed the bus back to city campus.
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,North 17th Parking Garage,2026-02-01 11:24,4,Actually wasn't full for once.
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,Astronomy Club,2026-02-20 14:01,,
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,Coding Club,2026-01-31 06:10,,
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,DLC Exam Commons,2026-02-13 09:38,1,My keyboard was sticky.
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,Math Resource Center,2026-02-28 15:44,3,Wait time was over 30 minutes.
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,Cather Dining Hall,2026-02-21 05:43,4,Great salad bar options.
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,Avery Hall,2026-02-22 15:28,,
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,Math Resource Center,2026-01-30 15:47,,
+edabccb6-c700-4dcd-ad2f-ff2bf84bd431,North 17th Parking Garage,2026-02-03 00:47,,
+6ee954f0-f6a7-4909-bf19-104c333da917,Selleck Building,2026-02-02 23:55,,
+6ee954f0-f6a7-4909-bf19-104c333da917,CSCE Resource Center,2026-02-07 04:11,,
+6ee954f0-f6a7-4909-bf19-104c333da917,Love Library,2026-02-06 13:02,2,Couldn't find a single outlet.
+6ee954f0-f6a7-4909-bf19-104c333da917,Avery Hall,2026-02-02 18:30,,
+6ee954f0-f6a7-4909-bf19-104c333da917,Math Resource Center,2026-02-03 03:05,3,Tutor seemed a bit rushed today.
+6ee954f0-f6a7-4909-bf19-104c333da917,DLC Exam Commons,2026-02-28 02:36,2,Super stressful environment.
+f63f96af-7526-47ff-876d-ab025703b15b,NEST Tutoring,2026-02-21 19:34,1,Tutor seemed a bit rushed today.
+f63f96af-7526-47ff-876d-ab025703b15b,Love Library,2026-02-07 03:25,,
+f63f96af-7526-47ff-876d-ab025703b15b,Love Library,2026-02-09 04:24,4,Super productive vibe today.
+f63f96af-7526-47ff-876d-ab025703b15b,Astronomy Club,2026-02-15 22:02,3,Too cliquey for my taste.
+f63f96af-7526-47ff-876d-ab025703b15b,Cather Dining Hall,2026-02-04 16:02,,
+f63f96af-7526-47ff-876d-ab025703b15b,Love Library,2026-02-09 18:37,,
+f63f96af-7526-47ff-876d-ab025703b15b,CSCE Resource Center,2026-02-07 17:09,2,Tutor seemed a bit rushed today.
+f63f96af-7526-47ff-876d-ab025703b15b,East Campus,2026-02-08 06:24,1,Too far from my dorm.
+f63f96af-7526-47ff-876d-ab025703b15b,Aerospace Club,2026-02-12 08:57,,
+b64678d6-8fc2-4fa4-af4c-2ef525db4173,Aerospace Club,2026-02-14 05:57,2,Meeting started 20 minutes late.
+b64678d6-8fc2-4fa4-af4c-2ef525db4173,Selleck Building,2026-02-11 14:23,,
+b64678d6-8fc2-4fa4-af4c-2ef525db4173,Coding Club,2026-02-27 12:06,,
+b64678d6-8fc2-4fa4-af4c-2ef525db4173,14th St Parking Garage,2026-02-21 14:38,4,Plenty of open spaces this morning.
+b64678d6-8fc2-4fa4-af4c-2ef525db4173,Astronomy Club,2026-02-13 20:07,,
+b64678d6-8fc2-4fa4-af4c-2ef525db4173,Avery Hall,2026-02-17 11:05,,
+fc150035-0d5b-4e79-b0dc-cef653721b72,14th St Parking Garage,2026-02-16 15:58,2,Complete gridlock trying to leave.
+fc150035-0d5b-4e79-b0dc-cef653721b72,Aerospace Club,2026-02-17 12:50,,
+fc150035-0d5b-4e79-b0dc-cef653721b72,Aerospace Club,2026-02-07 04:29,,
+fc150035-0d5b-4e79-b0dc-cef653721b72,Love Library,2026-01-30 12:27,5,Perfect lighting and fast Wi-Fi.
+fc150035-0d5b-4e79-b0dc-cef653721b72,Astronomy Club,2026-02-22 05:08,,
+fc150035-0d5b-4e79-b0dc-cef653721b72,14th St Parking Garage,2026-02-15 17:30,,
+fc150035-0d5b-4e79-b0dc-cef653721b72,North 17th Parking Garage,2026-01-30 15:40,,
+fc150035-0d5b-4e79-b0dc-cef653721b72,CSCE Resource Center,2026-02-04 19:19,,
+fc150035-0d5b-4e79-b0dc-cef653721b72,Aerospace Club,2026-02-19 21:02,,
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,Astronomy Club,2026-02-01 07:51,3,Meeting started 20 minutes late.
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,NEST Tutoring,2026-02-21 20:59,,
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,North 17th Parking Garage,2026-02-09 12:37,5,Easy in and out today.
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,Math Resource Center,2026-02-03 18:01,,
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,Avery Hall,2026-02-14 23:44,,
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,CSCE Resource Center,2026-02-07 01:24,,
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,14th St Parking Garage,2026-02-07 20:47,2,Had to park all the way on the roof.
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,DLC Exam Commons,2026-01-30 08:31,,
+e70dd138-4b9d-4f9c-9153-1cf87b8750c1,Cather Dining Hall,2026-03-01 00:26,,
+9bc5ae08-b488-443f-ae16-883d0e156803,Astronomy Club,2026-01-31 06:02,4,Really welcoming group of people!
+9bc5ae08-b488-443f-ae16-883d0e156803,Aerospace Club,2026-01-31 12:25,,
+9bc5ae08-b488-443f-ae16-883d0e156803,Aerospace Club,2026-02-06 17:18,,
+9bc5ae08-b488-443f-ae16-883d0e156803,Love Library,2026-02-02 11:10,,
+9bc5ae08-b488-443f-ae16-883d0e156803,Selleck Building,2026-02-20 21:13,,
+9bc5ae08-b488-443f-ae16-883d0e156803,Selleck Building,2026-02-18 21:30,,
+9bc5ae08-b488-443f-ae16-883d0e156803,East Campus,2026-02-17 06:56,,
+9bc5ae08-b488-443f-ae16-883d0e156803,CSCE Resource Center,2026-02-08 09:44,4,Life-saver before my midterm.
+9bc5ae08-b488-443f-ae16-883d0e156803,Astronomy Club,2026-02-12 11:56,3,Basically just listened to a lecture.
+9bc5ae08-b488-443f-ae16-883d0e156803,East Campus,2026-02-01 17:58,4,Hit up the bowling alley after class.
+9bc5ae08-b488-443f-ae16-883d0e156803,Astronomy Club,2026-02-23 10:38,2,Topic wasn't what I expected.
+9bc5ae08-b488-443f-ae16-883d0e156803,Love Library,2026-02-23 14:34,3,"Way too loud, couldn't focus."
+5f2cdb9e-f5e7-4438-9797-91139de835e3,Math Resource Center,2026-02-26 06:34,4,Super patient and helpful.
+5f2cdb9e-f5e7-4438-9797-91139de835e3,Selleck Building,2026-02-01 19:16,,
+5f2cdb9e-f5e7-4438-9797-91139de835e3,NEST Tutoring,2026-01-30 06:25,1,Too crowded to get one-on-one help.
+5f2cdb9e-f5e7-4438-9797-91139de835e3,Avery Hall,2026-02-01 13:51,,
+5f2cdb9e-f5e7-4438-9797-91139de835e3,DLC Exam Commons,2026-02-16 23:41,,
+5f2cdb9e-f5e7-4438-9797-91139de835e3,Math Resource Center,2026-02-14 20:18,1,Too crowded to get one-on-one help.
+8275b8c0-1ee1-48ca-b7ac-9f372441493b,14th St Parking Garage,2026-02-26 04:55,,
+8275b8c0-1ee1-48ca-b7ac-9f372441493b,Coding Club,2026-02-02 22:20,,
+8275b8c0-1ee1-48ca-b7ac-9f372441493b,NEST Tutoring,2026-02-07 20:28,,
+8275b8c0-1ee1-48ca-b7ac-9f372441493b,CSCE Resource Center,2026-02-12 09:27,,
+8275b8c0-1ee1-48ca-b7ac-9f372441493b,Aerospace Club,2026-02-26 05:02,,
+8275b8c0-1ee1-48ca-b7ac-9f372441493b,Coding Club,2026-02-24 16:15,,
+8275b8c0-1ee1-48ca-b7ac-9f372441493b,DLC Exam Commons,2026-02-13 20:31,,
+8275b8c0-1ee1-48ca-b7ac-9f372441493b,Cather Dining Hall,2026-02-24 23:04,,
+a1317e58-f064-4d93-bad0-2706cb351ebd,NEST Tutoring,2026-02-08 08:08,,
+a1317e58-f064-4d93-bad0-2706cb351ebd,North 17th Parking Garage,2026-02-14 06:57,,
+a1317e58-f064-4d93-bad0-2706cb351ebd,CSCE Resource Center,2026-02-06 03:10,5,Life-saver before my midterm.
+a1317e58-f064-4d93-bad0-2706cb351ebd,NEST Tutoring,2026-02-08 04:52,,
+a1317e58-f064-4d93-bad0-2706cb351ebd,Math Resource Center,2026-02-20 10:06,,
+a1317e58-f064-4d93-bad0-2706cb351ebd,Aerospace Club,2026-02-09 17:41,,
+a1317e58-f064-4d93-bad0-2706cb351ebd,North 17th Parking Garage,2026-02-10 12:55,,
+a1317e58-f064-4d93-bad0-2706cb351ebd,Coding Club,2026-02-05 21:47,4,Really cool project demo today.
+a1317e58-f064-4d93-bad0-2706cb351ebd,Love Library,2026-02-27 06:51,3,"Way too loud, couldn't focus."
+a1317e58-f064-4d93-bad0-2706cb351ebd,East Campus,2026-02-07 04:55,,
+a1317e58-f064-4d93-bad0-2706cb351ebd,Love Library,2026-02-15 15:58,1,Couldn't find a single outlet.
+a1317e58-f064-4d93-bad0-2706cb351ebd,CSCE Resource Center,2026-02-16 04:35,,
+dce4e918-fcc7-4df4-a647-5604ca374b83,NEST Tutoring,2026-02-08 10:48,,
+dce4e918-fcc7-4df4-a647-5604ca374b83,Love Library,2026-02-23 14:07,,
+dce4e918-fcc7-4df4-a647-5604ca374b83,Cather Dining Hall,2026-02-02 23:37,1,Food was cold.
+dce4e918-fcc7-4df4-a647-5604ca374b83,East Campus,2026-02-23 09:10,3,Too far from my dorm.
+dce4e918-fcc7-4df4-a647-5604ca374b83,CSCE Resource Center,2026-02-14 14:57,5,Learning consultants are the best.
+dce4e918-fcc7-4df4-a647-5604ca374b83,Coding Club,2026-02-13 11:47,1,Basically just listened to a lecture.
+dce4e918-fcc7-4df4-a647-5604ca374b83,Love Library,2026-02-09 20:41,,
+dce4e918-fcc7-4df4-a647-5604ca374b83,Selleck Building,2026-02-27 07:08,,
+dce4e918-fcc7-4df4-a647-5604ca374b83,Aerospace Club,2026-02-09 06:29,,
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,Astronomy Club,2026-02-26 18:08,,
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,Love Library,2026-02-02 03:18,2,"Way too loud, couldn't focus."
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,Aerospace Club,2026-02-04 14:20,,
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,14th St Parking Garage,2026-02-18 06:49,,
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,Aerospace Club,2026-02-22 22:05,,
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,NEST Tutoring,2026-01-31 04:54,3,Wait time was over 30 minutes.
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,NEST Tutoring,2026-02-27 17:08,5,"Great session, finally understand the concepts."
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,Coding Club,2026-02-26 19:52,,
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,Aerospace Club,2026-02-18 18:53,4,Really cool project demo today.
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,NEST Tutoring,2026-02-09 16:08,,
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,Astronomy Club,2026-02-15 07:32,4,"Awesome meeting, learned a lot about the projects."
+f27a9fe6-6fe7-4b89-a12b-1d62ce6918f4,NEST Tutoring,2026-02-20 06:28,3,Didn't really answer my specific question.
+f1345b51-4099-44c7-94a6-17912038618f,Coding Club,2026-02-18 13:07,,
+f1345b51-4099-44c7-94a6-17912038618f,Coding Club,2026-02-24 03:20,1,Topic wasn't what I expected.
+f1345b51-4099-44c7-94a6-17912038618f,Astronomy Club,2026-02-17 01:18,,
+f1345b51-4099-44c7-94a6-17912038618f,Astronomy Club,2026-02-20 18:46,,
+f1345b51-4099-44c7-94a6-17912038618f,14th St Parking Garage,2026-02-06 00:18,,
+f1345b51-4099-44c7-94a6-17912038618f,Aerospace Club,2026-02-20 20:31,1,Felt a bit disorganized today.
+f1345b51-4099-44c7-94a6-17912038618f,CSCE Resource Center,2026-02-20 23:05,,
+f1345b51-4099-44c7-94a6-17912038618f,East Campus,2026-01-31 23:30,3,Missed the bus back to city campus.
+f1345b51-4099-44c7-94a6-17912038618f,North 17th Parking Garage,2026-02-24 13:00,4,Found a spot on the first level!
+f1345b51-4099-44c7-94a6-17912038618f,Math Resource Center,2026-02-16 12:43,,
+f1345b51-4099-44c7-94a6-17912038618f,North 17th Parking Garage,2026-02-28 00:31,,
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,Astronomy Club,2026-02-06 14:57,,
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,Avery Hall,2026-02-21 02:21,,
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,East Campus,2026-02-08 10:20,,
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,DLC Exam Commons,2026-01-30 20:04,,
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,Astronomy Club,2026-02-03 19:48,,
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,Coding Club,2026-02-13 12:06,2,Felt a bit disorganized today.
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,Astronomy Club,2026-02-16 10:25,3,Too cliquey for my taste.
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,East Campus,2026-02-01 19:48,3,Missed the bus back to city campus.
+cab934e6-8a5f-44e6-b934-d09cbf129c0e,Avery Hall,2026-02-20 10:26,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,Selleck Building,2026-01-30 13:01,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,14th St Parking Garage,2026-02-27 11:06,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,Aerospace Club,2026-02-28 14:55,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,14th St Parking Garage,2026-02-12 00:05,2,People drive like maniacs in here.
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,Astronomy Club,2026-02-26 16:12,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,CSCE Resource Center,2026-02-10 23:29,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,14th St Parking Garage,2026-02-11 18:34,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,CSCE Resource Center,2026-02-13 06:32,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,Love Library,2026-02-14 18:39,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,14th St Parking Garage,2026-02-01 07:51,,
+8e88a04b-07f6-4593-bdce-c3398e46f5cd,Avery Hall,2026-02-04 10:14,,
+dad9f2ae-1245-4549-b018-f609bed61318,Avery Hall,2026-02-10 09:50,,
+dad9f2ae-1245-4549-b018-f609bed61318,Astronomy Club,2026-02-07 09:30,2,Too cliquey for my taste.
+dad9f2ae-1245-4549-b018-f609bed61318,DLC Exam Commons,2026-02-03 00:47,,
+dad9f2ae-1245-4549-b018-f609bed61318,Aerospace Club,2026-02-11 17:40,,
+dad9f2ae-1245-4549-b018-f609bed61318,DLC Exam Commons,2026-02-09 15:32,4,Smooth check-in process.
+dad9f2ae-1245-4549-b018-f609bed61318,Avery Hall,2026-02-03 04:16,,
+dad9f2ae-1245-4549-b018-f609bed61318,DLC Exam Commons,2026-02-21 22:39,1,Too much foot traffic near my station.
+dad9f2ae-1245-4549-b018-f609bed61318,Selleck Building,2026-02-15 15:39,,
+dad9f2ae-1245-4549-b018-f609bed61318,Math Resource Center,2026-02-04 22:27,,
+dad9f2ae-1245-4549-b018-f609bed61318,Avery Hall,2026-02-18 09:06,,
+dad9f2ae-1245-4549-b018-f609bed61318,Aerospace Club,2026-01-31 22:16,,
+dad9f2ae-1245-4549-b018-f609bed61318,NEST Tutoring,2026-02-14 08:53,5,Learning consultants are the best.
+6b52d639-5032-4e79-beb5-8f56f9f16a0c,Astronomy Club,2026-02-02 22:21,3,Meeting started 20 minutes late.
+6b52d639-5032-4e79-beb5-8f56f9f16a0c,14th St Parking Garage,2026-02-26 19:33,,
+6b52d639-5032-4e79-beb5-8f56f9f16a0c,Coding Club,2026-02-06 05:42,5,Really cool project demo today.
+6b52d639-5032-4e79-beb5-8f56f9f16a0c,Astronomy Club,2026-01-31 16:46,4,Free pizza was a massive plus.
+6b52d639-5032-4e79-beb5-8f56f9f16a0c,Avery Hall,2026-02-08 05:17,,
+6b52d639-5032-4e79-beb5-8f56f9f16a0c,East Campus,2026-02-28 16:31,,
+560a1b32-b5f2-4abf-908c-82c49e8314e0,DLC Exam Commons,2026-02-16 06:15,4,Smooth check-in process.
+560a1b32-b5f2-4abf-908c-82c49e8314e0,Love Library,2026-02-28 23:38,,
+560a1b32-b5f2-4abf-908c-82c49e8314e0,North 17th Parking Garage,2026-02-01 14:10,,
+560a1b32-b5f2-4abf-908c-82c49e8314e0,Coding Club,2026-02-02 00:36,,
+560a1b32-b5f2-4abf-908c-82c49e8314e0,East Campus,2026-02-05 17:27,,
+560a1b32-b5f2-4abf-908c-82c49e8314e0,Coding Club,2026-02-12 12:41,,
+560a1b32-b5f2-4abf-908c-82c49e8314e0,Avery Hall,2026-02-09 19:33,,
+560a1b32-b5f2-4abf-908c-82c49e8314e0,DLC Exam Commons,2026-02-22 14:58,3,Line to get in was insane.
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,DLC Exam Commons,2026-02-06 05:08,2,Super stressful environment.
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,NEST Tutoring,2026-02-03 11:00,3,Too crowded to get one-on-one help.
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,Avery Hall,2026-02-21 15:52,,
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,DLC Exam Commons,2026-02-17 23:08,5,Smooth check-in process.
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,Coding Club,2026-02-10 12:46,1,Too cliquey for my taste.
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,North 17th Parking Garage,2026-02-26 18:55,4,Found a spot on the first level!
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,Astronomy Club,2026-01-31 13:28,,
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,Love Library,2026-02-21 23:28,5,Super productive vibe today.
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,Coding Club,2026-02-28 00:31,,
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,NEST Tutoring,2026-02-21 11:39,,
+85959171-2a10-4d2e-ab3d-ca66cebc4a35,Cather Dining Hall,2026-02-27 05:07,,
