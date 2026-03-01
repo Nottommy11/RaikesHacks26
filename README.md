@@ -1,3 +1,24 @@
+# Deployment
+https://raikes-hacks26.vercel.app/login
+
+# Student Experience
+Select a sample student from the dropdown menu.
+Explore their experiences on campus.
+Find courses based on keyword search.
+ACE courses can be searched for as well.
+Find recommended courses and clubs based on the student's interests.
+View and leave reviews for campus locations and activities.
+See suggested tutoring for the student.
+
+Explore their current interests and add suggested interests.
+Provide YouTube video links to find tracked interests related to the video.
+Provide article links to find tracked interests related to the article.
+
+# Admin Experience
+Choose the admin account to login.
+View campus wide statistics related to test experiences, visited locations, and reviews.
+View trending student interests and find gaps in what is provided on campus and what students are interested in.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
