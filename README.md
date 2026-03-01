@@ -14,6 +14,8 @@ Explore their current interests and add suggested interests.
 Provide YouTube video links to find tracked interests related to the video.
 Provide article links to find tracked interests related to the article.
 
+Watch as suggested courses and clubs change with interests.
+
 # Admin Experience
 Choose the admin account to login.
 View campus wide statistics related to test experiences, visited locations, and reviews.
